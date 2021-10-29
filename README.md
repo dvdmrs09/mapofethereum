@@ -6,3 +6,4 @@ this is only 1907 or so addresses all tied together the smaller report with 300 
 ------word of advice----
 the images are over about 100000 pixels wide so i suggest downloading them rather than viewing in the browser
 chrome didnt like it unless i zoomed out to 25% but even then it still crashed upon trying to render
+https://youtu.be/6vliwdchmbk
